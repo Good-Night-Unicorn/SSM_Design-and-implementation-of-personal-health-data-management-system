@@ -1,4 +1,4 @@
-## 基于SSM个人健康数据管理系统的(源代码+LW+PPT+数据库)
+## 基于SSM个人健康数据小程序的(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
